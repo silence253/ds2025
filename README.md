@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Lê Nhật Anh
-* Student ID: 22BI13018
+* Student Name: Le Tuan Anh
+* Student ID: BA11-005
 * Student Group ID: Not-for-now
